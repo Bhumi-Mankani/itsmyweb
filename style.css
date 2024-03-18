@@ -3,7 +3,7 @@
     text-align: center;
     font-size: 28px;
     font-weight: 500;
-    cursor: pointer;
+     ;
   }    body{
     margin: 0;
     padding: 0;
@@ -14,46 +14,32 @@
        font-weight: 500; 
        font-family: sans-serif;
         font-size: 28px;
-        cursor: pointer;
+cursor: pointer;
     }
     #icons{
       width: 22px;
       height: 21px;
        padding-left: 350px;
         padding-bottom: 40px;
-<<<<<<< HEAD
-        cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
     }
     #icon{
       width: 22px;
        height: 21px; 
        padding-left: 30px;
         padding-bottom: 40px;
-<<<<<<< HEAD
-        cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
     }
     .box-content-img{
       width: 400px; 
       height: 320px; 
       border-radius: 10px;
-<<<<<<< HEAD
-      cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
+cursor: pointer;
     }
     .logo{
         width: 226px;
 height: 29px;
 padding-left: 192px;
 padding-top: 20px;
-<<<<<<< HEAD
 cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
     }
     .header{
         height: 50px;
@@ -72,10 +58,7 @@ cursor: pointer;
     text-transform: capitalize;
     float: right;
     margin-top: 30px;
-<<<<<<< HEAD
     cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
    }
    .search{
     text-transform: capitalize;
@@ -90,17 +73,11 @@ text-align: left;
 margin-top: 30px;
 margin-left: 15px;
 float: right;
-<<<<<<< HEAD
 cursor: pointer;
    }
    .fa-location-dot{
     float: right;
     cursor: pointer;
-=======
-   }
-   .fa-location-dot{
-    float: right;
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
    }
    .back-img{
     text-align: center;
@@ -204,17 +181,10 @@ padding-bottom: 30px;
     margin-left: 60px;
     display: flex;
     margin-bottom: 20px;
-<<<<<<< HEAD
     cursor: pointer;
   }
   .content{
     margin-top: 30px;
-    cursor: pointer;
-=======
-  }
-  .content{
-    margin-top: 30px;
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
   }
   .city{
     color: #5AC3B0;
@@ -224,10 +194,7 @@ padding-bottom: 30px;
     text-decoration: none;
     text-transform: uppercase;
     padding-left: 40px;
-<<<<<<< HEAD
     cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
   }
   .intrested{
     text-decoration: none;
@@ -235,27 +202,18 @@ padding-bottom: 30px;
     color: #7C8086;
     font-weight: bold;
     font-family: sans-serif;
-<<<<<<< HEAD
     cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
   }.eye{
     padding-left: 270px;
     width: 17px;
     height: 11px;
-<<<<<<< HEAD
     cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
   }
   .star{
     width: 12px;
     height: 11px;
     padding-left: 50px;
-<<<<<<< HEAD
     cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
   }
   .views{
     color: black;
@@ -263,17 +221,14 @@ padding-bottom: 30px;
     font-family: sans-serif;
     font-weight: bold;
     padding-left: 10px;
-<<<<<<< HEAD
     cursor: pointer;
-  }.num{
-    cursor: pointer;
-=======
-  }.num{
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
+  }
+.num{
     color: #7C8086;
     font-weight: bold;
     font-family: sans-serif;
     text-decoration: none;
+    cursor: pointer;
   }
   .heading{
     text-decoration: none;
@@ -284,10 +239,6 @@ padding-bottom: 30px;
     padding-left: 40px;
     font-weight: 500;
     font-weight: bold;
-<<<<<<< HEAD
-    cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
   }
 li.list{
   color: #000000;
@@ -295,10 +246,7 @@ li.list{
   padding-left: 40px;
   list-style: circle outside black;
   float: left;
-<<<<<<< HEAD
   cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
 }
 li.list2{
   color: #000000;
@@ -306,10 +254,7 @@ li.list2{
   float: left;
   text-decoration: none;
   list-style: circle outside black;
-<<<<<<< HEAD
   cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
 }
 li.list3{
   color: #000000;
@@ -317,10 +262,7 @@ li.list3{
   text-decoration: none;
   float: left;
   list-style: circle outside black;
-<<<<<<< HEAD
   cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
 }
 
 li.list4{
@@ -328,16 +270,14 @@ li.list4{
   padding-left: 40px;
   text-decoration: none;
   list-style: circle outside black;
-<<<<<<< HEAD
   cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
 }
 .vector{
   padding-left: 40px;
   width: 20px;
   height: 16px;
   border: 2px;
+  cursor: pointer;
 }
 .person{
   color: #000000;
@@ -345,11 +285,13 @@ li.list4{
   font-size: 16px;
   text-decoration: none;
   padding-left: 10px;
+  cursor: pointer;
 }
 .group{
   padding-left: 40px;
   width: 20px;
   height: 19px;
+  cursor: pointer;
 }
 .days{
   color: #000000;
@@ -357,6 +299,7 @@ li.list4{
   font-size: 16px;
   text-decoration: none;
   padding-left: 10px;
+  cursor: pointer;
 }
 .bottom-contents{
   color: #000000;
@@ -366,14 +309,14 @@ li.list4{
   padding-left: 20px;
  text-transform: capitalize;
   display: inline-block;
-}
-.rs{
-  float: right;
+  cursor: pointer;
 }
 .rs{
   color: #000000;
   font-size: 32px;
   padding-left: 20px;
+  cursor: pointer;
+  float: right;
 }
 .left{
   float: right;
@@ -442,10 +385,6 @@ margin-bottom: 30px;
   float: left;
   border: 1px solid #5AC3B0;
   border-radius: 3.3px;
-<<<<<<< HEAD
-  cursor: pointer;
-=======
->>>>>>> 5a0dce18a6ed3c2520d508a9f6eeb07714ea9320
 }
 .right-img{
   width: 380px;
@@ -483,7 +422,7 @@ padding-left: 130px;
  color: #000000;
  text-transform: capitalize;
  padding-left: 130px;
- cursor: pointer;
+  ;
 }
 .p{
   font-size: 14px ;
@@ -498,7 +437,7 @@ padding-left: 130px;
  color: #000000;
  text-transform: capitalize;
  padding-left: 100px;
- cursor: pointer;
+  ;
 }
 .t-row{
   font-size: 20;
@@ -506,7 +445,7 @@ padding-left: 130px;
   font-family: sans-serif;
  color: #000000;
  text-transform: capitalize;
- cursor: pointer;
+  ;
 }
 
 .f-row{
@@ -515,7 +454,7 @@ padding-left: 130px;
   font-family: sans-serif;
  color: #000000;
  text-transform: capitalize;
- cursor: pointer;
+  ;
 }
 .s-para{
   font-size: 14px ;
@@ -545,7 +484,7 @@ padding-left: 130px;
   color: white;
   text-align: center;
   border: 1px solid black;
-  cursor: pointer;
+   cursor: pointer;
 }
 .social-platforms-1{
    width: 26px;
@@ -580,18 +519,21 @@ padding-left: 130px;
   height: 48px;
   margin-top: 15px;
   padding-left: 40px;
+  cursor: pointer;
 }
 .footer-image-2{
   width: 42px;
   height: 42px;
   margin-top: 15px;
   padding-left: 40px;
+  cursor: pointer;
 }
 .footer-image-3{
   width: 41px;
   height: 41px;
   margin-top: 15px;
   padding-left: 40px;
+  cursor: pointer;
 }
 .footer-heading{
   font-size: 18;
